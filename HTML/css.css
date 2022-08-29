@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(236, 234, 234);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    border: 2px solid royalblue;
+    padding: 34px;
+    margin: 55px;
+}
+a:link {
+    color: black;
+    background-color: none;
+    text-decoration: none;
+  }
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
